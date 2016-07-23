@@ -19,7 +19,7 @@ Composer (gerenciar dependencias e autoload do projeto)
 Slim 3 (rotas)
 PHP ActiveRecord (acesso ao banco de dados)
 Authenticação com JWT
-Migrations (banco de dados)
+Migrations - [Documentação](http://doctrine-orm.readthedocs.io/projects/doctrine-dbal/en/latest/reference/schema-representation.html)
 
 # Client
 HTML5
